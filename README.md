@@ -11,9 +11,13 @@ To address this pressing need, our project introduces a machine learning–based
 We have implemented and evaluated four powerful machine learning classifiers:
 
 🌲 Random Forest (ensemble learning)
+
 📈 Logistic Regression (statistical modeling)
+
 🧠 Gaussian Naïve Bayes (probabilistic reasoning)
+
 📍 K-Nearest Neighbors (KNN) (pattern recognition)
+
 Each model has been rigorously trained and validated to ensure high accuracy and reliability in distinguishing between PCOS and non-PCOS cases. Through comparative analysis and performance metrics, we aim to identify the most effective model for clinical integration.
 
 By leveraging artificial intelligence in women's healthcare, this project envisions a future where PCOS diagnosis is faster, smarter, and more accessible, paving the way for timely interventions and improved patient outcomes.
